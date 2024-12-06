@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.timer {
+  margin: 20px;
+  font-size: 48px;
+}
+
+.time-display {
+  font-size: 72px;
+  margin-top: 20px;
+}
+
+.controls button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.settings input {
+  padding: 5px;
+  font-size: 16px;
+  margin: 10px;
+  width: 60px;
+}
